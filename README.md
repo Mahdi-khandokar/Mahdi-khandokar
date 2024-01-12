@@ -1,6 +1,4 @@
-https://github.com/nodemcu/nodemcu-flasher.git
+https://github.com/nodemcu/nodemcu-flasher.git  (NODE MCU Flasher)
+https://sparks.gogo.co.nz/ch340.html  (NODE MCU Driver)
 
-<!---
-Mahdi-khandokar/Mahdi-khandokar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
